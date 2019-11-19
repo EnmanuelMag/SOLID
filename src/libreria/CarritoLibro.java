@@ -3,11 +3,11 @@ package libreria;
 
 import java.util.ArrayList;
 
-public class AlmacenLibro {
+public class CarritoLibro {
 
     private ArrayList<Libro> libros;
 
-    public AlmacenLibro(ArrayList<Libro> libros) {
+    public CarritoLibro(ArrayList<Libro> libros) {
         this.libros = libros;
     }
 
