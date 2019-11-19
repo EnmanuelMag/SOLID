@@ -1,3 +1,9 @@
+package pagos;
+
+
+import libreria.Libro;
+import pagos.Pago;
+
 public class Tarjeta implements Pago {
 
     private String numero;
